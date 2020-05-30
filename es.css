@@ -37,7 +37,7 @@ header{
     background: #a8ff78;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78); 
      /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(162, 100%, 74%, 0.295), hsla(99, 100%, 74%, 0.301)), url(../img/covid1.jpg); 
+    background: linear-gradient(to right, hsla(162, 100%, 74%, 0.295), hsla(99, 100%, 74%, 0.301)), url(../img/img/covid1.jpg); 
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed ;
